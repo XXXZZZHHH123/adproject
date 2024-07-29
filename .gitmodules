@@ -1,0 +1,6 @@
+[submodule "ad-backend"]
+	path = ad-backend
+	url = https://github.com/yourusername/ad-backend.git
+[submodule "ad-client"]
+	path = ad-client
+	url = https://github.com/yourusername/ad-client.git
